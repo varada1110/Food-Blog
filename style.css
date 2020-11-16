@@ -1,0 +1,194 @@
+body{
+    cursor: pointer;
+}
+#blogname{
+    font-family: 'Nothing You Could Do', cursive;
+    text-align: center;
+    padding-top:10%;
+    font-size: xx-large;
+    color: rgb(73, 70, 70);
+}
+nav{
+    background-color: rgb(236, 233, 233);
+    padding: 2% 2% 2% 2%;
+    position: sticky;
+}
+nav li{
+    display: inline;
+    padding-left: 4%;
+    padding-right: 4%;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(110, 110, 110);
+    position: sticky;
+}
+nav input{
+    margin-left: 10%;
+    padding: 1% 1% 1% 1%;
+    background-color:rgb(226, 222, 222);
+    border: none;
+    width: 22%;
+    
+    
+    
+}
+#name{
+    font-family: 'Big Shoulders Inline Display';
+    font-weight: 200;
+    font-size: medium;
+    margin-top: -5.5%;
+}
+div img{
+    width: 56vw;
+    height: 59vw;
+    padding: 4% 4% 0% 4%;
+
+}
+#about{
+    background-color: rgb(245, 245, 245);
+    margin-left: 65%;
+    margin-top:-145%;
+    margin-right: 4%;
+    text-align: center;
+    padding:4% 4% 4% 4%;
+}
+#pro{
+    height:55vh;
+    width:20vw;
+    margin-left: 2.5%;
+    padding:2% 2% 2% 2% ;
+    
+    
+}
+a:link{
+    text-decoration: none;
+}
+a:link , a:visited , a:active{
+    color:rgb(110, 110, 110); 
+}
+.p{
+    font-weight: 50;
+    color: rgb(56, 53, 53);
+    letter-spacing: 1px;
+}
+.h6{
+    color: rgb(134, 134, 134);
+    letter-spacing: 1.5px;
+}
+div i{
+    padding: 5% 5% 5% 5%;
+    color: rgb(56, 53, 53);
+}  
+.p1{
+    padding: 6% 6% 6% 6%;
+    
+    font-size:large ;
+    margin-top: -55%;
+    color: rgb(56, 53, 53);
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 2;
+}
+.pic1{
+    border-radius:50%;
+    margin-left: 54%;
+    margin-top: 4%; 
+    height:82vh;
+    width: 78vh;
+
+}
+#ab1{
+    height:15vh ;
+    width: 20vw;
+}
+#footer{
+    margin-top: 58%;
+    text-align: center;
+    padding-top: 10%;
+    color: rgb(190, 190, 190);
+}
+.icon{
+    padding:2% 2% 2% 2%;
+    color: rgb(190, 190, 190);
+    
+}
+#footer1{
+    
+    text-align: center;
+    color: rgb(190, 190, 190);
+}
+#recipe1{
+    padding-left: 4%;
+    line-height: 2;
+    font-family: 'Ubuntu', sans-serif ;
+    font-weight: 100;
+    color: rgb(65, 65, 65);
+}
+#recipe11{
+    padding-left: 8%;
+    line-height: 2;
+    font-family: 'Poppins' ;
+    font-weight:550;
+    color: rgb(66, 66, 66);
+    
+
+}
+.lt{
+    width: 28vw;
+    height: 80vh;
+}
+.lt1{
+    margin-left: 32%;
+    margin-top: -65%;
+    width: 28vw;
+    height: 80vh;
+}
+.lt2{
+    margin-left:62%;
+    margin-top:-60%;
+    width: 28vw;
+    height: 80vh;
+
+}
+.food1{
+    margin-left:33vw;
+    margin-top:-1.5vw;
+    
+}
+.food2{
+    margin-left:63vw;
+    margin-top: -1.5vw;
+    
+}
+.h{
+    margin-left: 4vw;
+    padding-top:4vw;
+}
+.lt3{
+    width: 38vw;
+    height: 80vh;
+}
+#footer2{
+    text-align: center;
+    color: rgb(190, 190, 190);
+    margin-top:5%;
+}
+
+    
+    
+
+#rpimg{
+    width: 28%;
+    height: 19%;
+    margin-top:-5%;
+}
+#in1{
+    line-height: 2vw;
+    margin-top:-39%;
+    margin-left:40%;
+}
+#in2{
+    line-height: 2vw;
+    margin-left:40%;
+    margin-right: 3vw;
+    
+}
